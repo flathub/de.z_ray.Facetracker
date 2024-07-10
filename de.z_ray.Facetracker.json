@@ -23,7 +23,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/Z-Ray-Entertainment/Facetracker/releases/download/24.7/osf_pre_build.zip",
+          "url": "https://github.com/Z-Ray-Entertainment/Facetracker/releases/download/24.7.2/osf_pre_build.zip",
           "sha256": "98cda3bc8bd275edc630d83e687e098460d3bd857155069beef1cd24a74287c3"
         }
       ]
@@ -36,7 +36,7 @@
         {
           "type": "git",
           "url": "https://github.com/Z-Ray-Entertainment/Facetracker",
-          "tag": "24.7"
+          "tag": "24.7.2"
         }
       ]
     }
