@@ -1,7 +1,7 @@
 {
   "app-id": "de.z_ray.Facetracker",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "command": "facetracker-gui",
   "finish-args": [
@@ -36,7 +36,8 @@
         {
           "type": "git",
           "url": "https://codeberg.org/ZRayEntertainment/Facetracker",
-          "tag": "25.9"
+          "tag": "25.9",
+          "commit": "5fc8a6ed88475c5c561d10871383158edc23e0e4"
         }
       ]
     }
