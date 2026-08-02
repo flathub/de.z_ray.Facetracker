@@ -36,8 +36,8 @@
         {
           "type": "git",
           "url": "https://codeberg.org/ZRayEntertainment/Facetracker",
-          "tag": "25.9",
-          "commit": "5fc8a6ed88475c5c561d10871383158edc23e0e4"
+          "tag": "26.8",
+          "commit": "202605335e97efc7d47fd98b05efdcf433217da4"
         }
       ]
     }
